@@ -36,9 +36,9 @@ This is for API and UI solution
 	*Import the project (ShopriteAssesment.postman_collection) from postman
 	
 # For more information or technical assistence please contact the following person
-Full Name: Khangwelo Ravhutsi
-Email: Khangweloravhutsi@yahoo.com
-Cell: 0812090777
-Whatsapp: 0812090777
+*Full Name: Khangwelo Ravhutsi
+*Email: Khangweloravhutsi@yahoo.com
+*Cell: 0812090777
+*Whatsapp: 0812090777
 	
 	
